@@ -46,12 +46,4 @@ GitHub 開源與共同開發，這裡有幾個基本步驟和建議，讓你可�
 3. `CODE_OF_CONDUCT.md`：行為準則（選填）
 4. `ISSUE_TEMPLATE` & `PULL_REQUEST_TEMPLATE`：統一提問和 PR 格式（可建立在 `.github/` 資料夾內）
 
----
 
-
-
----
-
-如果你想，我可以幫你示範一個簡單的 CONTRIBUTING.md 或是 CI 設定，或直接幫你擬個對開發者友善的開發指南 😎
-
-你目前的專案是公開的嗎？有沒有想開放哪些功能讓別人來幫忙？
